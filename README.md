@@ -2,7 +2,9 @@
 
 Skill de Claude que le suma a las auditorías técnicas de GEO lo que a una agencia realmente le hace falta: saber si el cliente está listo, decir la verdad sobre los resultados y hacerlo en español.
 
-No reemplaza a `geo-seo-claude` ni a `claude-seo` — las complementa. Ellas auditan el sitio. Esta audita la organización, verifica la evidencia antes de mostrarla y genera el reporte que un cliente hispanohablante realmente entiende.
+No reemplaza a `geo-seo-claude`** ni a `claude-seo` — las complementa. Ellas auditan el sitio. Esta audita la organización, verifica la evidencia antes de mostrarla y genera el reporte que un cliente hispanohablante realmente entiende.
+
+** https://github.com/zubair-trabzada/geo-seo-claude
 
 ## ¿Por qué existe?
 
