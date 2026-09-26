@@ -61,9 +61,14 @@ El objetivo no es impedir la comunicación comercial, sino diferenciar entre **r
 
 ## Instalación
 
-### Si usás claude.ai
+### Si usás claude.ai (Requiere plan Pro o Team)
 
-`Settings → Capabilities → Customize → Skills`
+1. Creá un nuevo proyecto en la pestaña **Projects**.
+2. Copiá el contenido completo de `SKILL.md` y pegalo en las **Custom Instructions** del proyecto.
+3. En la sección **Project Knowledge**, subí los cuatro archivos `.md` que están dentro de la carpeta `references/`.
+4. ¡Listo! Ya podés chatear con el proyecto para auditar a tus clientes.
+
+*Nota: Si usás la versión gratuita, podés adjuntar los archivos de `references/` en un chat nuevo y pegar el texto de `SKILL.md` en tu primer mensaje.*
 
 Subí el `.skill` empaquetado o esta carpeta comprimida.
 
